@@ -1,3 +1,4 @@
+import * as faceapi from './face-api.min'
 const video = document.getElementById('video')
 
 Promise.all([
