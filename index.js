@@ -18,7 +18,6 @@ function startVideo() {
   )
 }
 
-startVideo()
 
 video.addEventListener('play', () => {
   //create the canvas from video element as we have created above
